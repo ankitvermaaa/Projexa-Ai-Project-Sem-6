@@ -57,12 +57,4 @@ The system processes the input data.
 Patient information is stored in a local JSON database.  
 A structured medical report can be generated and exported as a PDF.
 
-### Future Improvements
-
-Integration with real medical imaging AI models  
-Secure login authentication for doctors  
-Cloud database support  
-Patient history tracking  
-Deployment on cloud platforms (Streamlit Cloud / AWS / Render)
-
 
