@@ -6,7 +6,6 @@ import pandas as pd
 import streamlit as st
 from PIL import Image, ImageDraw
 
-# NEW: Import dotenv to read .env file
 try:
     from dotenv import load_dotenv
     load_dotenv() # Load variables from .env into environment
