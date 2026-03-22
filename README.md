@@ -5,7 +5,7 @@ The application allows doctors to upload medical scans, analyze them, and genera
 
 ---
 
-## Features
+## Features: 
 
 - Medical scan upload and analysis
 - Patient information management
