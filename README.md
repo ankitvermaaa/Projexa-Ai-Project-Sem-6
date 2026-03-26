@@ -24,7 +24,6 @@ mediscan-ai
 ├── patient_db.py # Patient database handling  
 ├── pdf_gen.py # PDF report generation  
 ├── utils.py  
- <sub> (to be uploaded yet) </sub>  
 ├── patient_data.json # Patient records  
 ├── requirements.txt  
 ├── .gitignore  
